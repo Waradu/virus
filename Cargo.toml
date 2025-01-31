@@ -1,0 +1,13 @@
+[package]
+name = "virus"
+version = "0.0.0"
+edition = "2021"
+description = "virus"
+license = "MIT"
+homepage = "https://waradu.dev"
+repository = "https://github.com/Waradu/virus"
+readme = "README.md"
+authors = ["Waradu"]
+keywords = ["virus"]
+
+[dependencies]
